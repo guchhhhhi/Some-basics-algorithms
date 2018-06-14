@@ -1,2 +1,2 @@
 # Some-basics-algorithms
-This is my first repository !!
+This repository contains a number of famous sorts . Enjoy !
